@@ -1,50 +1,60 @@
 [
     {
+        "id":1,
         "linguagem":"JavaScript",
         "paradigma":["Funcional","Imperativa", "Scripts"],
         "anoCriacao":1995
     },
     {
+        "id":2,
         "linguagem":"Java",
         "paradigma":["Orientação a objetos","imperativa"],
         "anoCriacao":1991
     },
     {
+        "id":3,
         "linguagem":"Python",
         "paradigma":["Orientação a objetos","Imperativa","funcional"],
         "anoCriacao":1991
     },
     {
+        "id":4,
         "linguagem":"C#",
         "paradigma":["Orientação a eventos","Imperativa","funcional","Estruturada"],
         "anoCriacao":2000
     },
     {
+        "id":5,
         "linguagem":"PHP",
         "paradigma":["Orientação a objetos","funcional"],
         "anoCriacao":1995
     },
     {
+        "id":6,
         "linguagem":"C++",
         "paradigma":["Orientação a objetos","Abstração de dados"],
         "anoCriacao":1979
     },
     {
+        "id":7,
         "linguagem":"Ruby",
         "paradigma":["Multiparadigma"],
         "anoCriacao":1993
     },
     {
+        "id":8,
         "linguagem":"C",
         "paradigma":["Imperativa","Estruturada"],
         "anoCriacao":1972
     },
     {
+        "id":9,
         "linguagem":"TypeScript",
         "paradigma":["Multiparadigma"],
         "anoCriacao":2012
     },
     {
+        "id":10,
         "linguagem":"Swift",
         "paradigma":["Orientação a objetos","Imperativa"],
         "anoCriacao":2014
