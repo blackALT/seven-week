@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "cidade":"Fernando de Noronha",
+        "estado":"Pernambuco",
+        "ponto turístico":["praias paradisíacas"]
+    },
+    {
+        "id": 2,
+        "cidade":"Jericoacoara",
+        "estado":"Ceará",
+        "ponto turístico":["Praias","Dunas","Parque nacional"]
+    },   
+    {
+        "id": 3,
+        "cidade":"Salvador ",
+        "estado":"Bahia",
+        "ponto turístico":["Pelourinho","Farol da Barra"]
+    },
+    {
+        "id": 4,
+        "cidade":"Aracaju",
+        "estado":"Sergipe",
+        "ponto turístico":["Praia do Mosqueiro", "Praia do Atalaia","Museu da Gente Sergipana"]
+    },
+    {
+        "id": 5,
+        "cidade":"Rio de Janeiro",
+        "estado":"Rio de Janeiro",
+        "ponto turístico":["Cristo Redentor","praias","Pão de açucar"]
+    },
+    {
+        "id": 6,
+        "cidade":"Curitiba",
+        "estado":"Paraná",
+        "ponto turístico":["Museu Oscar Niemeyer","Jardim botânico","Ópera de Arame","Parque Tanguá"]
+    },
+    {
+        "id": 7,
+        "cidade":"Ouro Preto",
+        "estado":"Minas Gerais",
+        "ponto turístico":["Igreja de São Francisco de Assis", "Matriz de Nossa Senhora do Pilar", "Museu da Inconfidência", "Casa do Contos"]
+    },
+    {
+        "id": 8,
+        "cidade":"Cabo Frio",
+        "estado":"Rio de Janeiro",
+        "ponto turístico":["Praia das Conchas","Praia do Forte","Praia das Dunas"]
+    },
+    {
+        "id": 9,
+        "cidade":"Urubici",
+        "estado":"Santa Catarina",
+        "ponto turístico":["cachoeiras", "rios", "cavernas", "montanhas", "grutas","mirantes"]
+    },
+    {
+        "id": 10,
+        "cidade":"João Pessoa",
+        "estado":"Paraíba",
+        "ponto turístico":["Centro Cultural São Francisco","Farol do Cabo Branco","Casa do Artista Popular"]
+    }
+]
+    
